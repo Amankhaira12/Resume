@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Khaira's Resume</title>
+</head>
+<body>
+    <h1>AMANDEEP SINGH</h1>
+    <h2>Summary</h2>
+    <p>Dedicated and enthusiastic with excellent leadership capabilities who likes to take initiative and seek out new challenges.</p>
+    <p>Physically fit, hardworking and great at changing gears quickly to handle new tasks.</p>
+    <p>Qualified Security Officer with experience maintaining safety for campus grounds and facilities.</p>
+    <p>Talented at roving control and entrance control.</p>
+    <p>Successfully remains calm in high-pressure situations and interactions with difficult individuals.</p>
+    
+    <h2>Experience</h2>
+    <h3>ANDERSON BLAKE SECURITY - Security Guard</h3>
+    <p>Barrie, ON</p>
+    <p>11/2022 - 08/2023</p>
+    <ul>
+        <li>Worked at location 49 High Street conducting building patrols, checking the entrance, and ensuring everything is under control.</li>
+        <li>Addressed problems quickly and reported clear information while working under minimal supervision.</li>
+        <li>Followed established security and safety procedures and posted orders to include enforcement of company rules, policies, and regulations.</li>
+        <li>Investigated reported incidents to protect company assets.</li>
+    </ul>
+    
+    <h3>CSR Cosmetics - General Labour</h3>
+    <p>Barrie, ON</p>
+    <p>08/2022 - 11/2022</p>
+    <ul>
+        <li>Followed established safety practices when using tools and equipment.</li>
+        <li>Observed and listened to machinery operation to detect equipment malfunctions.</li>
+        <li>Inspected products.</li>
+        <li>Overseeing the types of materials used in production.</li>
+    </ul>
+</body>
+</html>
